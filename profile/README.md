@@ -1,4 +1,4 @@
-# IceDragon
+# IceCatDragon Browser
 
  Highly Secure Web Browser for the TesseraQt-GNU OS Project
 
