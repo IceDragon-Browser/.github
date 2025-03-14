@@ -1,4 +1,4 @@
-# IceCatDragon Browser
+# CrystalCat Dragon Browser
 ![DALL·E-2024-11-09 08 11 30-icecatdragon](https://github.com/user-attachments/assets/222a3cef-ec91-4b41-a500-ef372f3663b9)
 
 
